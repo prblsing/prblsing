@@ -70,7 +70,6 @@
 #### **Vector Databases**
 <p>
 <img src="https://img.shields.io/badge/Pinecone-006FFF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
-<img src="https://img.shields.io/badge/ChromaDB-FF4081?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu b3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5IiBmaWxsPSIjRkY0MDgxIi8+PC9zdmc+" alt="ChromaDB">
 <img src="https://img.shields.io/badge/FAISS-00C853?style=for-the-badge&logo=google&logoColor=white" alt="FAISS">
 </p>
 
