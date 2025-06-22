@@ -60,19 +60,17 @@
 #### **Graph Databases**
 <p>
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
-<img src="https://img.shields.io/badge/ArangoDB-E44B23?style=for-the-badge&logo=arangodb&logoColor=white" alt="ArangoDB">
 </p>
 
 #### **Cache Databases**
 <p>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-<img src="https://img.shields.io/badge/Memcached-005571?style=for-the-badge&logo=memcached&logoColor=white" alt="Memcached">
 </p>
 
 #### **Vector Databases**
 <p>
 <img src="https://img.shields.io/badge/Pinecone-006FFF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
-<img src="https://img.shields.io/badge/Weaviate-38BDF8?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate">
+<img src="https://img.shields.io/badge/Weaviate-38BDF8?style=for-the-badge&logo=weaviate&logoColor=white" alt="Chroma">
 <img src="https://img.shields.io/badge/FAISS-00C853?style=for-the-badge&logo=google&logoColor=white" alt="FAISS">
 </p>
 
